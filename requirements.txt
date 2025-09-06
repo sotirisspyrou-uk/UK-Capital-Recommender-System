@@ -1,0 +1,20 @@
+# UK Capital Recommender System - Python Dependencies
+# [Version 06-09-2025 17:50:00]
+# Authored by: Sotiris Spyrou, CEO, VerityAI
+
+# Core Python libraries (usually included)
+# These are typically built-in to Python 3.8+
+
+# External dependencies (uncomment if needed)
+# pandas>=1.5.0          # Data manipulation and analysis
+# numpy>=1.24.0          # Numerical computing
+# requests>=2.31.0       # HTTP library
+# streamlit>=1.28.0      # Web dashboard (for quick web interface)
+# fastapi>=0.104.0       # Fast API framework (for production API)
+
+# Development and testing
+# pytest>=7.4.0         # Testing framework
+# black>=23.9.0          # Code formatter
+
+# Note: This project is designed to work with Python standard library
+# Additional dependencies can be installed as needed for specific features
